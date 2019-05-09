@@ -1,0 +1,40 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="ejercicio6" ID="1">
+ <Element Name="personaje1" ID="2" Folder="personaje1">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="personaje1_animacion" ID="3" Folder="personaje1_animacion">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+  <Drawing Key="" Name="4" Version="1"/>
+  <Drawing Key="" Name="5" Version="1"/>
+  <Drawing Key="" Name="6" Version="1"/>
+  <Drawing Key="" Name="7" Version="1"/>
+  <Drawing Key="" Name="8" Version="1"/>
+  <Drawing Key="" Name="9" Version="1"/>
+  <Drawing Key="" Name="10" Version="1"/>
+  <Drawing Key="" Name="11" Version="1"/>
+  <Drawing Key="" Name="12" Version="1"/>
+  <Drawing Key="" Name="13" Version="1"/>
+  <Drawing Key="" Name="14" Version="1"/>
+  <Drawing Key="" Name="15" Version="1"/>
+  <Drawing Key="" Name="16" Version="1"/>
+  <Drawing Key="" Name="17" Version="1"/>
+  <Drawing Key="" Name="18" Version="1"/>
+  <Drawing Key="" Name="19" Version="1"/>
+  <Drawing Key="" Name="20" Version="1"/>
+ </Element>
+ <Element Name="personaje2" ID="4" Folder="personaje2">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="bocas" ID="5" Folder="bocas">
+  <Drawing Key="" Name="A" Version="1"/>
+  <Drawing Key="" Name="B" Version="1"/>
+  <Drawing Key="" Name="C" Version="1"/>
+  <Drawing Key="" Name="D" Version="1"/>
+  <Drawing Key="" Name="E" Version="1"/>
+  <Drawing Key="" Name="F" Version="1"/>
+  <Drawing Key="" Name="G" Version="1"/>
+ </Element>
+</SceneVersion>

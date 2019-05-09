@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Harmony Premium (Harmony Premium) version 15.0.4 build 13658 2018-06-05 01:13:52" version="1504" build="13658">
+ <element id="2" elementName="personaje1" elementFolder="personaje1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="3" elementName="personaje1_animacion" elementFolder="personaje1_animacion" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="4" elementName="personaje2" elementFolder="personaje2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="5" elementName="bocas" elementFolder="bocas" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
